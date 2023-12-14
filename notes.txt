@@ -1,0 +1,57 @@
+2 types of elements in html
+
+inline element    -   it only takes the space for content to display 
+block element     -   it will takes the entire width space
+
+command   <!---->
+
+semantic tags
+
+<nav> </nav>
+<aside> </aside>
+<section> </section>
+<main> </main>
+<footer> </footer>
+
+
+headings    (h1 - h6)
+
+<h1> defines the most important heading
+<h6> defines the least important heading
+
+
+tags
+
+<em> </em> - italics
+<u> </u>  - underline
+<button> </button> - button
+<p></p> - paragraph
+<img> - it  specifies an alternate text for an image
+
+
+lists
+
+ordered list <ul><li> --- </li></ul>
+unordered list <ol><li> --- </li></ol>
+
+
+div tag
+
+<div>  </div>
+group elements
+
+table --- create tables
+
+<table>
+<tr>
+<td>  </td>
+</tr>
+</table>
+
+form
+<form action="" method="" enctype="">
+
+
+
+
+
